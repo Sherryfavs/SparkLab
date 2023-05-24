@@ -1,0 +1,2 @@
+fun facts about the fun
+touch nameOfTheFile.txt
